@@ -14,7 +14,7 @@ function HomePage() {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6 items-center justify-center">
           <div className="text-center">
             <Image
-              src="/image.png"
+              src="/bhas_adve.jpg"
               alt="Dashboard"
               width={500}
               height={350}
